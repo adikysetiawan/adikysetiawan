@@ -1,74 +1,56 @@
-# 👋 Hello Developers! I'm Achmad Diky Setiawan!
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/[adikysetiawan]?v=4" width="100px;" alt="Profil Anda"/><br />
+  <h3>Halo, saya [Achmad Diky Setiawan]!</h3>
+  <p>Seorang mahasiswa Informatika yang antusias dan berfokus pada pengembangan solusi digital yang inovatif.</p>
+</div>
 
 ---
 
-### 🚀 About Me
-I am a **D4 Informatics Management Student** with a strong enthusiasm for **Web & Mobile Development** and **User Interface/User Experience (UI/UX) Design**. I believe in developing innovative and user-centric IT solutions.
+### 💻 Keahlian & Teknologi
 
-With a GPA of 3.91/4.00, I continuously sharpen my technical and problem-solving skills through various projects, competitions, and organizational experiences. I am a recipient of the Bojonegoro Regency Government Scientist Scholarship (2023-Present) and actively involved in the XR Research Club (AR/VR using Unity 3D) research.
+Berikut adalah beberapa teknologi yang saya gunakan atau minati:
 
----
-
-### 🛠️ Skills & Technologies
-Here are some of the technologies and tools I use:
-
-#### Programming Languages
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-#### Tools & Platforms
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%2320232A.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-019398?style=for-the-badge&logo=cisco&logoColor=white)
+-   **Bahasa Pemrograman:** `PHP` `JavaScript` `Python` `Dart`
+-   **Frameworks & Libraries:** `Laravel` `CodeIgniter` `Vue.js` `Flutter` `Bootstrap`
+-   **Basis Data:** `MySQL`
+-   **Tools & Platform:** `Git` `GitHub` `VS Code` `Postman` `Swagger` `Unity 3D`
+-   **Konsep:** `RESTful API` `UI/UX Design` `Software Testing` `System Integration` `RBAC` `IoT` `AR/VR`
 
 ---
 
-### 📈 GitHub Stats
-![Achmad Diky Setiawan GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikysetiawan21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=007BFF&icon_color=007BFF&text_color=FFFFFF&bg_color=1F2228)
-![Achmad Diky Setiawan Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikysetiawan21&layout=compact&theme=dark&hide_border=false&langs_count=8&title_color=007BFF&icon_color=007BFF&text_color=FFFFFF&bg_color=1F2228)
-![GitHub Streak](https://streak-stats.demolab.com/?user=dikysetiawan21&theme=dark&hide_border=false&background=1F2228&stroke=007BFF&ring=007BFF)
+### 🚀 Proyek Unggulan
+
+Beberapa proyek yang saya banggakan:
+
+* **[Nama Repo Terbaik 1]** - [Deskripsi singkat, 1 kalimat. Contoh: Aplikasi web untuk manajemen event dengan fitur autentikasi dan rekam jejak.]
+* **[Nama Repo Terbaik 2]** - [Deskripsi singkat, 1 kalimat. Contoh: Sistem informasi klinik berbasis web untuk efisiensi operasional pasien dan rekam medis.]
+* **[Nama Repo Terbaik 3]** - [Deskripsi singkat, 1 kalimat. Contoh: Portal berita dinamis dengan CMS, responsif, dan panel admin berbasis Laravel.]
+* **[Nama Repo Terbaik 4]** - [Deskripsi singkat, 1 kalimat. Contoh: Implementasi API RESTful yang aman untuk pengelolaan resep masakan dengan Laravel Sanctum.]
+
+*Lihat lebih banyak proyek di [repositori saya](https://github.com/[YOUR_GITHUB_USERNAME]?tab=repositories).*
 
 ---
 
-### 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=dikysetiawan21&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
+### 🏆 Prestasi Pilihan
+
+* **[Nama Prestasi 1, misal: Finalis Lomba Kompetensi Siswa (LKS) Bidang Robotika]** - [Tahun]
+* **[Nama Prestasi 2, misal: Lolos Tahap Pertama Pekan Kreativitas Mahasiswa (PKM) Judul "Smart Agriculture System"]** - [Tahun]
+* **[Nama Prestasi 3, misal: Finalis Olimpiade Vokasi Indonesia (Olivia) Bidang Cyber Security]** - [Tahun]
 
 ---
 
-### 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📫 Mari Terhubung
+
+Saya terbuka untuk peluang kolaborasi dan diskusi. Jangan ragu untuk menghubungi saya!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_KE_LINKEDIN_ANDA])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL_ANDA])
 
 ---
 
-### 🌐 Let's Connect!
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dkystwnn._)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmaddikysetiawan)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/achmaddikysetiawan/)
+<div align="center">
+  <sub>Terima kasih telah berkunjung!</sub>
+</div>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=dikysetiawan21&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&hide_border=true&theme=default)
