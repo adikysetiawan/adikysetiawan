@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 #### Mahasiswa Informatika yang antusias dan pembangun solusi digital.
 
