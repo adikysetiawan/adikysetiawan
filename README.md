@@ -27,11 +27,3 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/achmaddikysetiawan/)](https://www.facebook.com/achmaddikysetiawan/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dkystwnn._/)](https://www.instagram.com/dkystwnn._/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achmaddikys21@gmail.com)](mailto:achmaddikys21@gmail.com)
-
----
-
-<div align="center">
-  <sub>Thanks for stopping by!</sub>
-</div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adikysetiawan&show_icons=true&theme=default&hide_border=true)
