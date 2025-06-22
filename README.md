@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/[adikysetiawan]?v=4" width="100px;" alt="Profil Anda"/><br />
-  <h3>Halo, saya [Achmad Diky Setiawan]!</h3>
-  <p>Seorang mahasiswa Informatika yang antusias dan berfokus pada pengembangan solusi digital yang inovatif.</p>
-</div>
-
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
 ---
 
 ### 💻 Keahlian & Teknologi
