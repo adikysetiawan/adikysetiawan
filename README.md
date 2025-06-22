@@ -1,10 +1,10 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+## Hi there! I'm Achmad Diky Setiawan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-#### Mahasiswa Informatika yang antusias dan pembangun solusi digital.
+#### An enthusiastic Informatics Student and builder of innovative digital solutions.
 
 ---
 
-### ⚙️ Keahlian & Teknologi
+### ⚙️ Skills & Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -15,21 +15,23 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ---
 
-- 🚀 Minat Utama: **Pengembangan Web (Backend/Fullstack)**, **Desain API**, **Realitas Ekstensi (XR)**, **Pengujian Perangkat Lunak**
-- 💡 Proyek Unggulan: [Sebutkan 1-2 nama proyek terbaik yang paling relevan dengan minat Anda, misal: `Laravel-News-Platform-Responsive`, `EventMation-Web-App-Testing`]
-- 🏆 Prestasi Pilihan: Finalis Lomba Kompetensi Siswa (LKS) Bidang Robotika | 2022
+- 🚀 Key Interests: **Web Development (Backend/Fullstack)**, **API Design**, **Extended Reality (XR)**, **Software Testing**
+- 💡 Featured Projects: [Mention 1-2 of your best projects, e.g.: `Laravel-News-Platform-Responsive`, `EventMation-Web-App-Testing`]
+- 🏆 Selected Achievements: Finalist of Student Competency Competition (LKS) in Robotics | 2022
 
 ---
 
-### 📫 Mari Terhubung
+### 📫 Let's Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK_KE_LINKEDIN_ANDA])]([LINK_KE_LINKEDIN_ANDA])
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[EMAIL_ANDA])](mailto:[EMAIL_ANDA])
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achmaddikysetiawan/)](https://www.linkedin.com/in/achmaddikysetiawan/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/achmaddikysetiawan/)](https://www.facebook.com/achmaddikysetiawan/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dkystwnn._/)](https://www.instagram.com/dkystwnn._/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achmaddikys21@gmail.com)](mailto:achmaddikys21@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Terima kasih telah berkunjung!</sub>
+  <sub>Thanks for stopping by!</sub>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adikysetiawan&show_icons=true&theme=default&hide_border=true)
