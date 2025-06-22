@@ -16,7 +16,7 @@
 ---
 
 - 🚀 Key Interests: **Web Development (Backend/Fullstack)**, **API Design**, **Extended Reality (XR)**, **Software Testing**
-- 💡 Featured Projects: [Mention 1-2 of your best projects, e.g.: `Laravel-News-Platform-Responsive`, `EventMation-Web-App-Testing`]
+- 💡 Featured Projects: [`Laravel-News-Platform-Responsive`, `EventMation-Web-App-Testing`]
 - 🏆 Selected Achievements: Finalist of Student Competency Competition (LKS) in Robotics | 2022
 
 ---
