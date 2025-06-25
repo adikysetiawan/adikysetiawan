@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ---
 
-- 🚀 Key Interests: **Web Development (Backend/Fullstack)**, **API Design**, **Extended Reality (XR)**, **Software Testing**
+- 🚀 Key Interests: **Web Development (Backend/Fullstack)**, **API Design**, **UI/UX Designer**, **Software Testing**
 - 💡 Featured Projects: [`Laravel-News-Platform-Responsive`, `EventMation-Web-App-Testing`]
 - 🏆 Selected Achievements: Finalist of Student Competency Competition (LKS) in Robotics | 2022
 
