@@ -10,7 +10,7 @@
 * **🎓 Current Status:** Informatics Student at Universitas Negeri Surabaya.
 * **💡 Key Interests:** **Web Development (Backend/Fullstack)**, **Mobile Development**, **API Design**, **UI/UX Designer**, **Software Testing**.
 * **🌱 Learning Journey:** Constantly exploring new technologies and best practices to build robust and user-friendly applications.
-* **📍 Location:** Ketintang, Surabaya, East Java, Indonesia. *(Tambahkan ini jika Anda ingin)*
+* **📍 Location:** Ketintang, Surabaya, East Java, Indonesia.
 
 ---
 
