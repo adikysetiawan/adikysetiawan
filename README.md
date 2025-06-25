@@ -32,8 +32,20 @@ Here are some of the tools and technologies I enjoy working with:
 
 ## 🏆 Selected Achievements
 
-* **Finalist:** Student Competency Competition (LKS) in Robotics | 2022
-    * *This achievement showcases your competitive spirit and practical problem-solving skills.*
+* **Finalist:** Student Competency Competition (LKS) in Robotics (Line Follower) | District Level | 2022
+    * *Developed and programmed a robot to follow a line, showcasing problem-solving and logical thinking skills.*
+
+* **Finalist:** Business Plan Competition (BPC) - MedLab Theme | UPI | 2024
+    * *Developed an innovative MedLab business plan aimed at achieving SDGs in the digital era, highlighting entrepreneurial and strategic thinking.*
+
+* **Qualified for First Stage:** Student Creativity Week (PKM) - "Smart Agriculture System" | 2024
+    * *Designed an IoT-based smart agriculture system to enhance agricultural yields, demonstrating innovation in sustainable technology.*
+
+* **Finalist:** Indonesian Vocational Olympiad (Olivia) - Cyber Security Field | 2024
+    * *Collaborated in a team to solve complex cybersecurity challenges, showcasing teamwork and specialized knowledge.*
+
+* **Qualified for Second Stage:** PKM KI - "HitSense" | 2025
+    * *Developed a pacing pad that displays real-time punch power data in an application, combining hardware, software, and real-time data processing.*
 
 ---
 
