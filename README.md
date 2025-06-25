@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h2>Hi there! I'm Achmad Diky Setiawan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h2>
   <h4>An enthusiastic Informatics Student and builder of innovative digital solutions, passionate about crafting impactful digital solutions.</h4>
 </div>
